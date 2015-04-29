@@ -13,6 +13,7 @@ This software is a modification of the Arabic light stemmer. The original implem
 
 
 Arabic light stemming algorithm is described in: 
+
 Larkey, Leah S., Lisa Ballesteros, and Margaret E. Connell. "Light stemming for Arabic information retrieval." Arabic computational morphology. Springer Netherlands, 2007. 221-243.‏
 
 
