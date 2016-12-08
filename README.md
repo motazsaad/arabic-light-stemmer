@@ -4,7 +4,7 @@ A command line version of the Arabic light stemmer, which is implemented in Apac
 
 Light stemming for Arabic words is to remove common affix (prefix and suffix) from words, but it does not convert words into their root form.  
 
-Version 1.0
+Version 1.1
 
 Author: Motaz Saad (motaz dot saad at gmail dot com)
 
@@ -19,6 +19,6 @@ Larkey, Leah S., Lisa Ballesteros, and Margaret E. Connell. "Light stemming for 
 
 ## Usage example
 ```
-java main test-in.txt test-out.txt
+java -jar arabic-light-stemmer.jar test-in.txt test-out.txt
 ```
 
