@@ -8,7 +8,7 @@ Version 1.1
 
 Author: Motaz Saad (motaz dot saad at gmail dot com)
 
-This software is a modification of the Arabic light stemmer. The original implementation is available at https://lucene.apache.org/
+This software is a modification of the Arabic light stemmer (just to make the algorithm standalone). The original implementation is available at https://lucene.apache.org/
 
 
 Arabic light stemming algorithm is described in: 
